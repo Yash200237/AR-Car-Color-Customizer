@@ -72,3 +72,17 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Burst compiler debug data
+*_BurstDebugInformation_DoNotShip/
+
+# JetBrains Rider project folder
+.idea/
+
+# Unity Collaborate
+.collabignore
+
+# Unity Package Manager logs/configs
+.upmconfig.toml
+npm-debug.log
+yarn-error.log
