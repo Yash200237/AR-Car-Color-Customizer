@@ -23,6 +23,17 @@ A mobile AR application that lets you repaint a virtual car in real time—built
   </tr>
 </table>
 
+## 🎬 Demo
+
+Experience the app in action!  
+<!-- Replace the URL or file path below with your actual demo video or GIF -->
+[![Watch the Demo](docs/demo_thumbnail.png)](https://youtu.be/your-demo-link)
+
+> Or embed a looping GIF:
+> ```markdown
+> ![App Demo](docs/demo.gif)
+> ```
+
 ---
 
 ## 💡 What It Does
