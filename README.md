@@ -16,20 +16,19 @@ A mobile AR application that lets you repaint a virtual car in real time—built
       <strong>AR Car View</strong><br>
       <img src="docs/ar_scene.png" alt="AR Scene" width="260"/>
     </td>
-    <td align="center">
-      <strong>Pick a Color</strong><br>
-      <img src="docs/color_palette.png" alt="Color Palette" width="260"/>
-    </td>
   </tr>
 </table>
 
 ## 🎬 Demo
 
-Experience the app in action!  
+Experience the app in action!
+
 <!-- Replace the URL or file path below with your actual demo video or GIF -->
+
 [![Watch the Demo](docs/demo_thumbnail.png)](https://youtu.be/your-demo-link)
 
 > Or embed a looping GIF:
+>
 > ```markdown
 > ![App Demo](docs/demo.gif)
 > ```
@@ -44,9 +43,10 @@ Experience the app in action!
 2. **AR Marker Scan**  
    The app activates your camera. Scan the printed (or on-screen) marker to spawn a sleek 3D car model in your real environment.
 
-3. **Rotate & Paint**  
-   - The car rotates slowly so you can examine every angle.  
-   - A row of color swatches appears at the bottom.  
+3. **Rotate & Paint**
+
+   - The car rotates slowly so you can examine every angle.
+   - A row of color swatches appears at the bottom.
    - Tap any swatch to instantly repaint the car’s body—no reload required!
 
 4. **Visual Feedback**  
@@ -56,22 +56,18 @@ Experience the app in action!
 
 ## ✨ Features
 
-- **Seamless AR** using Vuforia’s robust image-target tracking  
+- **Seamless AR** using Vuforia’s robust image-target tracking
 - **Real-time color swapping** with 9 preset colors
-- **Touch-driven UI** optimized for mobile  
-- **Lightweight Android APK** (< 80 MB)  
+- **Touch-driven UI** optimized for mobile
+- **Lightweight Android APK** (< 80 MB)
 
 ---
 
 ## 🛠️ Built With
 
-- [Unity 2021+](https://unity.com/)  
-- [Vuforia Engine](https://developer.vuforia.com/) (via UPM)  
-- C# scripting for color & rotation logic  
+- [Unity 2021+](https://unity.com/)
+- [Vuforia Engine](https://developer.vuforia.com/) (via UPM)
+- C# scripting for color & rotation logic
 - Android SDK
 
 ---
-
-
-
-
