@@ -18,7 +18,7 @@ A mobile AR application that lets you repaint a virtual car in real time—built
     </td>
     <td align="center">
       <strong>AR Marker</strong><br>
-      <img src="docs/AR_marker.png" alt="AR Marker" width="260"/>
+      <img src="docs/AR_marker.jpg" alt="AR Marker" width="260"/>
     </td>
   </tr>
 </table>
