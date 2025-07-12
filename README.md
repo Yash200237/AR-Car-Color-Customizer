@@ -57,10 +57,9 @@ Experience the app in action!
 ## ✨ Features
 
 - **Seamless AR** using Vuforia’s robust image-target tracking  
-- **Real-time color swapping** with 10+ preset shades  
+- **Real-time color swapping** with 9 preset colors
 - **Touch-driven UI** optimized for mobile  
 - **Lightweight Android APK** (< 80 MB)  
-- **Extendable framework**—swap in your own 3D models or colors
 
 ---
 
@@ -69,21 +68,10 @@ Experience the app in action!
 - [Unity 2021+](https://unity.com/)  
 - [Vuforia Engine](https://developer.vuforia.com/) (via UPM)  
 - C# scripting for color & rotation logic  
-- Android SDK & NDK
+- Android SDK
 
 ---
 
-## 🔧 Getting Started
 
-### Prerequisites
 
-- Android device running Android 7.0+  
-- Unity Editor (tested on 2021.3 LTS)  
-- Vuforia Engine package installed via Unity Package Manager  
 
-### Installation
-
-1. **Clone this repo**  
-   ```bash
-   git clone https://github.com/your-username/AR-Car-Color-Customizer.git
-   cd AR-Car-Color-Customizer
