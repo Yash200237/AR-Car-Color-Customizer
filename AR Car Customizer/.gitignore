@@ -63,6 +63,9 @@ sysinfo.txt
 *.unitypackage.meta
 *.app
 
+# un-ignore our demo APK so git can track it
+!/TestApp.apk
+
 # Crashlytics generated file
 crashlytics-build.properties
 
