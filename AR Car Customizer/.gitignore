@@ -64,7 +64,7 @@ sysinfo.txt
 *.app
 
 # un-ignore our demo APK so git can track it
-!/builds/TestApp.apk
+!./builds/TestApp.apk
 
 # Crashlytics generated file
 crashlytics-build.properties
