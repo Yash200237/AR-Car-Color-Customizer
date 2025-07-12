@@ -16,6 +16,10 @@ A mobile AR application that lets you repaint a virtual car in real time—built
       <strong>AR Car View</strong><br>
       <img src="Docs/ar_scene.png" alt="AR Scene" width="260"/>
     </td>
+    <td align="center">
+      <strong>AR Marker</strong><br>
+      <img src="docs/AR_marker.png" alt="AR Marker" width="260"/>
+    </td>
   </tr>
 </table>
 
@@ -23,12 +27,6 @@ A mobile AR application that lets you repaint a virtual car in real time—built
 
 Experience the app in action!
 
-<!-- Replace the URL or file path below with your actual demo video or GIF -->
-
-[![Watch the Demo](docs/demo_thumbnail.png)](https://youtu.be/your-demo-link)
-
-> Or embed a looping GIF:
->
 > ```markdown
 > ![App Demo](docs/demo.gif)
 > ```
