@@ -4,7 +4,7 @@ A mobile AR application that lets you repaint a virtual car in real time—built
 
 ---
 
-## 🚀 Demo
+## 🚀 View
 
 <table>
   <tr>
