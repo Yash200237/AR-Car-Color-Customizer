@@ -86,3 +86,6 @@ crashlytics-build.properties
 .upmconfig.toml
 npm-debug.log
 yarn-error.log
+
+# don’t commit the Vuforia engine package archive
+/Packages/com.ptc.vuforia.engine-*.tgz

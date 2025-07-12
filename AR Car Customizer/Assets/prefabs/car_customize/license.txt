@@ -1,0 +1,11 @@
+Model Information:
+* title:	Aston Martin Valhalla (no interior) no finished
+* source:	https://sketchfab.com/3d-models/aston-martin-valhalla-no-interior-no-finished-e3345831fe1c4df49f12d8505bce5705
+* author:	vecarz (https://sketchfab.com/heynic)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Aston Martin Valhalla (no interior) no finished" (https://sketchfab.com/3d-models/aston-martin-valhalla-no-interior-no-finished-e3345831fe1c4df49f12d8505bce5705) by vecarz (https://sketchfab.com/heynic) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
