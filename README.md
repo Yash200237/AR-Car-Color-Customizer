@@ -10,11 +10,11 @@ A mobile AR application that lets you repaint a virtual car in real time—built
   <tr>
     <td align="center">
       <strong>Home Screen</strong><br>
-      <img src="docs/home_screen.png" alt="Home Screen" width="260"/>
+      <img src="Docs/home_screen.png" alt="Home Screen" width="260"/>
     </td>
     <td align="center">
       <strong>AR Car View</strong><br>
-      <img src="docs/ar_scene.png" alt="AR Scene" width="260"/>
+      <img src="Docs/ar_scene.png" alt="AR Scene" width="260"/>
     </td>
   </tr>
 </table>
