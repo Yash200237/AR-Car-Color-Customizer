@@ -4,7 +4,7 @@ A mobile AR application that lets you repaint a virtual car in real time—built
 
 ---
 
-## 🚀 View
+## 🚀 Views
 
 <table>
   <tr>
@@ -27,11 +27,7 @@ A mobile AR application that lets you repaint a virtual car in real time—built
 
 Experience the app in action!
 
-> ```markdown
-> ![App Demo](Docs/demo.gif)
-> ```
-
----
+![App Demo](Docs/demo.gif)
 
 ## 💡 What It Does
 
